@@ -49,9 +49,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:ssh://github.com/jenkinsci/MYPLLUGINNAME.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com/jenkinsci/MYPLUGINNAME.git</developerConnection>
-        <url>https://github.com/jenkinsci/MYPLUGINNAME</url>
+        <connection>scm:git:ssh://github.com/ffromm/xpath-config-viewer.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/ffromm/xpath-config-viewer.git</developerConnection>
+        <url>https://github.com/ffromm/xpath-config-viewer</url>
     </scm>
 
 	<!-- get every artifact through maven.glassfish.org, which proxies all the
